@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraOracle_19C")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeac746a5ec83fd74b6baac6f8d69e8f29a19b11")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraOracle_19C")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraOracle_19C")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
