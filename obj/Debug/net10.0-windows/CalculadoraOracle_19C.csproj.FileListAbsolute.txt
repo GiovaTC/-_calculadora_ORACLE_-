@@ -1,0 +1,16 @@
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\bin\Debug\net10.0-windows\CalculadoraOracle_19C.exe
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\bin\Debug\net10.0-windows\CalculadoraOracle_19C.deps.json
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\bin\Debug\net10.0-windows\CalculadoraOracle_19C.runtimeconfig.json
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\bin\Debug\net10.0-windows\CalculadoraOracle_19C.dll
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\bin\Debug\net10.0-windows\CalculadoraOracle_19C.pdb
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.Form1.resources
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.csproj.GenerateResource.cache
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.AssemblyInfoInputs.cache
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.AssemblyInfo.cs
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.csproj.CoreCompileInputs.cache
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.dll
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\refint\CalculadoraOracle_19C.dll
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.pdb
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\CalculadoraOracle_19C.genruntimeconfig.cache
+C:\Users\brode\source\repos\CalculadoraOracle_19C\CalculadoraOracle_19C\obj\Debug\net10.0-windows\ref\CalculadoraOracle_19C.dll
