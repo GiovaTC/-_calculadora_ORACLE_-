@@ -7,5 +7,8 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-
+ 
+    <ItemGroup>
+    <PackageReference Include="Oracle.ManagedDataAccess" Version="23.9.1" />
+  </ItemGroup>
 </Project>
