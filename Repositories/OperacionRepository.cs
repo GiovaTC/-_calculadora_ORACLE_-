@@ -40,6 +40,47 @@ namespace CalculadoraOracle_19C.Repositories
             command.Parameters.Add("resultado", OracleDbType.Decimal).Value = operacion.Resultado;
 
             command.ExecuteNonQuery();
+        }
+        
+        public List<Operacion> ObtenerTodas()
+        {
+            List<Operacion> operaciones = new();
+
+            using OracleConnection connection = ConexionOracle.ObtenerConexion();
+
+            connection.Open();
+
+            string sql = @"
+                SELECT 
+                    ID, 
+                    NUMERO1, 
+                    OPERADOR, 
+                    NUMERO2, 
+                    RESULTADO, 
+                    FECHA_OPERACION
+                FROM CALCULADORA_OPERACIONES
+                ORDER BY ID DESC";
+
+            using OracleCommand command = new OracleCommand(sql, connection);
+
+            using OracleDataReader reader = command.ExecuteReader();
+
+            while (reader.Read())
+            {
+                Operacion operacion = new Operacion
+                {
+                    Id = Convert.ToInt32(reader["ID"]),
+                    Numero1 = Convert.ToInt32(reader["NUMERO1"]),
+                    Operador = reader["OPERADOR"].ToString(),
+                    Numero2 = Convert.ToDecimal(reader["NUMERO2"]),
+                    Resultado = Convert.ToDecimal(reader["RESULTADO"]),
+                    FechaOperacion = Convert.ToDateTime(reader["FECHA_OPERACION"])
+                };
+
+                operaciones.Add(operacion);
+            }
+
+            return operaciones;
         }   
     }
 }
