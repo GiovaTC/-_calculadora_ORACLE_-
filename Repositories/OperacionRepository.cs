@@ -81,6 +81,22 @@ namespace CalculadoraOracle_19C.Repositories
             }
 
             return operaciones;
+        }
+        
+        public void EliminarTodas()
+        {
+            using OracleConnection connection = ConexionOracle.ObtenerConexion();
+            
+            connection.Open();
+            
+            string sql = @"
+                 DELETE FROM CALCULADORA_OPERACIONES";
+
+            using OracleCommand command = new OracleCommand(
+                sql, connection
+                );
+
+            command.ExecuteNonQuery();
         }   
     }
 }
