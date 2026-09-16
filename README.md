@@ -1,7 +1,9 @@
 # -_calculadora_ORACLE_- :.
 # 🧮 Calculadora Oracle 19c:
 
-<img width="2048" height="2048" alt="minimalist_logo" src="https://github.com/user-attachments/assets/3171fb6c-95f3-4ffc-854d-618265511e5a" />  
+<img width="2048" height="2048" alt="minimalist_logo" src="https://github.com/user-attachments/assets/3171fb6c-95f3-4ffc-854d-618265511e5a" />    
+
+<img width="1281" height="1079" alt="image" src="https://github.com/user-attachments/assets/827013b8-b98f-469e-858c-2a2540ef241e" />    
 
 ```
 
